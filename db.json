@@ -1,0 +1,30 @@
+{
+   "users":{
+      "user":[
+         {
+            "Name":"Eliott",
+            "Mobile":12345678,
+            "Boolean":true,
+            "Pets":[
+               "Cat"
+            ],
+            "Address":{
+               "Permanent address":"France",
+               "current Address":"FR"
+            }
+         },
+         {
+            "Name":"Noémi",
+            "Mobile":12345678,
+            "Boolean":true,
+            "Pets":[
+               "Dog"
+            ],
+            "Address":{
+               "Permanent address":"France",
+               "current Address":"FR"
+            }
+         }
+      ]
+   }
+}
